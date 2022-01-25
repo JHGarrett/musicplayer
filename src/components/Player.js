@@ -166,6 +166,8 @@ const Player = ({
 
         </label>
       </div>
+      <div><p>Made with ❤️ by John Garrett</p></div>
+
     </div>
   );
 };

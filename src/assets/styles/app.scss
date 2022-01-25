@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: "Lato", sans-serif;
 
@@ -30,7 +31,7 @@ h4 {
   font-weight: 400;
 }
 
-@import "./song";
-@import "./player";
-@import "./library";
-@import "./nav";
+@import "song";
+@import "player";
+@import "library";
+@import "nav";
